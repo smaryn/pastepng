@@ -6,3 +6,9 @@ Raw link:
 
 Direct link:
 ![67](https://raw.githubusercontent.com/smaryn/shared/master/imgs/67.png)
+
+Converted txt:
+![123-txt](https://raw.githubusercontent.com/smaryn/shared/master/imgs/123-txt.png)
+
+Converted md:
+![67-md](https://raw.githubusercontent.com/smaryn/shared/master/imgs/67-md.png)
